@@ -9,9 +9,9 @@ export default function Gallery() {
     { src: "/images/17.JPG", alt: "GOAT! 🐐  " },
     { src: "/images/4.JPG", alt: "💋💋💋💋💋" },
     { src: "/images/6.JPG", alt: "Ahhh, yes makeup Ati! 💄 " },
-    { src: "/images/15.JPG", alt: "Where it began! 👩‍🎓 " },
+    { src: "/images/15.jpg", alt: "Where it began! 👩‍🎓 " },
     { src: "/images/5.JPG", alt: "The PostGraduate! 👩‍🎓 " },
-    { src: "/images/11.JPG", alt: "Ichooooo! 👩‍🎓 " },
+    { src: "/images/11.jpg", alt: "Ichooooo! 👩‍🎓 " },
 
   ]
 
