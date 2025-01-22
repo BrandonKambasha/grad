@@ -17,10 +17,10 @@ export default function Home() {
   }, [isMuted])
 
   const journeyImages = [
-    { src: "/images/1.jpg", alt: "First day at university" },
-    { src: "/images/18.jpg", alt: "Midway through studies" },
-    { src: "/images/8.jpg", alt: "Final year project" },
-    { src: "/images/5.jpg", alt: "Graduation day" },
+    { src: "images/1.jpg", alt: "First day at university" },
+    { src: "images/18.jpg", alt: "Midway through studies" },
+    { src: "images/8.jpg", alt: "Final year project" },
+    { src: "images/5.jpg", alt: "Graduation day" },
   ]
 
   return (
