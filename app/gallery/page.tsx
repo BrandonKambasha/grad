@@ -3,15 +3,15 @@ import { Navigation } from "../../components/Navigation"
 
 export default function Gallery() {
   const images = [
-    { src: "/images/1.jpg", alt: "Egypt Ati! 🇪🇬 " },
-    { src: "/images/2.jpg", alt: "Passport Ati! " },
-    { src: "/images/3.jpg", alt: "Twins! Somehow? 👯‍♀️ " },
-    { src: "/images/17.jpg", alt: "GOAT! 🐐  " },
-    { src: "/images/4.jpg", alt: "💋💋💋💋💋" },
-    { src: "/images/6.jpg", alt: "Ahhh, yes makeup Ati! 💄 " },
-    { src: "/images/15.jpg", alt: "Where it began! 👩‍🎓 " },
-    { src: "/images/5.jpg", alt: "The PostGraduate! 👩‍🎓 " },
-    { src: "/images/11.jpg", alt: "Ichooooo! 👩‍🎓 " },
+    { src: "/images/1.JPG", alt: "Egypt Ati! 🇪🇬 " },
+    { src: "/images/2.JPG", alt: "Passport Ati! " },
+    { src: "/images/3.JPG", alt: "Twins! Somehow? 👯‍♀️ " },
+    { src: "/images/17.JPG", alt: "GOAT! 🐐  " },
+    { src: "/images/4.JPG", alt: "💋💋💋💋💋" },
+    { src: "/images/6.JPG", alt: "Ahhh, yes makeup Ati! 💄 " },
+    { src: "/images/15.JPG", alt: "Where it began! 👩‍🎓 " },
+    { src: "/images/5.JPG", alt: "The PostGraduate! 👩‍🎓 " },
+    { src: "/images/11.JPG", alt: "Ichooooo! 👩‍🎓 " },
 
   ]
 

@@ -4,10 +4,10 @@ import { Navigation } from "../../components/Navigation"
 
 export default function Videos() {
     const videos = [
-        { title: "Graduation Ceremony Highlights", src: "/images/vid.mp4" },
-        { title: "Atipatsa Chewing Gum", src: "/images/vid2.mp4" },
-        { title: "About to die ☄️ ", src: "/images/vid5.mp4" },
-        { title: "Oh brother, this guy stinks!", src: "/images/vid6.mp4" },
+        { title: "Graduation Ceremony Highlights", src: "/images/vid.MP4" },
+        { title: "Atipatsa Chewing Gum", src: "/images/vid2.MP4" },
+        { title: "About to die ☄️ ", src: "/images/vid5.MP4" },
+        { title: "Oh brother, this guy stinks!", src: "/images/vid6.MP4" },
     ]
 
     // Create an array to hold the mute state for each video

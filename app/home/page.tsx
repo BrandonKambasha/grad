@@ -17,10 +17,10 @@ export default function Home() {
   }, [isMuted])
 
   const journeyImages = [
-    { src: "images/1.jpg", alt: "First day at university" },
-    { src: "images/18.jpg", alt: "Midway through studies" },
-    { src: "images/8.jpg", alt: "Final year project" },
-    { src: "images/5.jpg", alt: "Graduation day" },
+    { src: "/images/1.JPG", alt: "First day at university" },
+    { src: "/images/18.JPG", alt: "Midway through studies" },
+    { src: "/images/8.JPG", alt: "Final year project" },
+    { src: "/images/5.JPG", alt: "Graduation day" },
   ]
 
   return (
@@ -65,7 +65,7 @@ export default function Home() {
             transition={{ duration: 0.8, delay: 0.4 }}
           >
             <video
-              src="/images/vid.mp4"
+              src="/images/vid.MP4"
               controls
               className="rounded-lg shadow-green w-full max-w-[300px]"
               autoPlay

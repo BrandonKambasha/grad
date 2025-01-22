@@ -7,10 +7,10 @@ import { Autoplay, Navigation } from 'swiper/modules';
 import 'swiper/swiper-bundle.css';
 
 const images = [
-  { src: "/images/14.jpg", alt: "Atipatsa and her boyfriend" },
-  { src: "/images/8.jpg", alt: "Description for image 2" },
-  { src: "/images/19.jpg", alt: "Description for image 3" },
-  { src: "/images/10.jpg", alt: "Description for image 3" },
+  { src: "/images/14.JPG", alt: "Atipatsa and her boyfriend" },
+  { src: "/images/8.JPG", alt: "Description for image 2" },
+  { src: "/images/19.JPG", alt: "Description for image 3" },
+  { src: "/images/10.JPG", alt: "Description for image 3" },
 
   // Add more images as needed
 ]
